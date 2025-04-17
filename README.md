@@ -1,6 +1,6 @@
-<h3>¡Hola! 👋 Soy [Uriel Velazquez]</h3>
+<h3>¡Hola! 👋 Soy Uriel Velazquez</h3>
 <p>
-  Desarrollador con experiencia en [Python]. Me encanta construir [Visualizaciones].
+  Desarrollador con experiencia en **Python**. Me encanta construir **Visualizaciones**.
 </p>
 
 <p align="center">
