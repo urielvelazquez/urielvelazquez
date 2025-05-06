@@ -2,7 +2,8 @@
 <p>
  👨‍💻 Apasionado por los datos, la tecnología y las soluciones que simplifican el trabajo.  
 🎓 Licenciado en Informática Administrativa | Certificado en análisis de datos por TripleTen  
-🧼 Emprendedor y creador de jabones artesanales (¡Sí, también tengo ese lado creativo!)
+
+ 🧼 Emprendedor y creador de jabones artesanales (¡Sí, también tengo ese lado creativo!)
 
 Me enfoco en transformar datos en decisiones. Tengo experiencia en:
 - Validación y limpieza de datos
